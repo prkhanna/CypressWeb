@@ -1,5 +1,5 @@
 
-# 🚀 I-doIt Test Automation Framework
+# 🚀  Test Automation Framework
 
 This project is an end-to-end test automation framework built with [Cypress](https://www.cypress.io/). It is designed to validate core user workflows, UI behavior, and application stability across builds.
 
