@@ -1,0 +1,9 @@
+{
+  "lang":"EN",
+  "objName": "QA Task",
+  "category": "Model",
+  "purpose": "Test",
+  "model":"HP",
+  "serviceTag":"A123",
+  "productId":"001"
+}

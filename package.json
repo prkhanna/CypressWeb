@@ -1,0 +1,20 @@
+{
+  "name": "cypressassignment",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test-open": "npx cypress open",
+    "test": "npx cypress run",
+    "test-headed": "npx cypress run --headed --browser chrome "
+    
+  },
+  "author": "Prince Khanna",
+  "license": "ISC",
+  "description": "I-doIt test cases",
+  "dependencies": {
+    "cypress": "^14.3.2"
+  },
+  "devDependencies": {
+    "cypress-mochawesome-reporter": "^3.8.2"
+  }
+}
